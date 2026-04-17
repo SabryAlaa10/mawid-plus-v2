@@ -1,0 +1,18 @@
+# Android
+**/build/
+**/.gradle/
+**/local.properties
+**/*.iml
+**/.idea/
+
+# Web
+**/node_modules/
+**/dist/
+
+# OS / editor
+.DS_Store
+Thumbs.db
+
+# Env
+.env
+.env.*
