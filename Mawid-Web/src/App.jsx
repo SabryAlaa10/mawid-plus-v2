@@ -1,3 +1,5 @@
+import AppRoutes from './router'
+
 export default function App() {
-  return <h1>Hello Mawid</h1>
+  return <AppRoutes />
 }
